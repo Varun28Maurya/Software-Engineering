@@ -145,19 +145,6 @@ git add -p
 
 ---
 
-# 6. Commit Changes
-
-Commit
-
-```bash
-git commit -m "Initial commit"
-```
-
-Commit staged changes
-
-```bash
-git commit
-```
 
 Stage and commit tracked files
 
