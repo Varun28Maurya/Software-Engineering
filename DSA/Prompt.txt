@@ -1,0 +1,15 @@
+Whenever I paste a coding problem, convert it into a clean, well-formatted `README.md` file.
+
+Rules:
+- Preserve the content exactly as provided.
+- Do NOT paraphrase, summarize, rewrite, or modify any wording.
+- Do NOT add or remove any information.
+- Keep all sections that are present (e.g., title, difficulty, tags, topics, companies, description, examples, constraints, notes, etc.).
+- If a section is missing, do not create it.
+- Format the content using proper Markdown headings, bullet points, bold text, and spacing.
+- Use fenced `text` code blocks for all inputs, outputs, sample inputs, sample outputs, and any plain text examples.
+- Convert lists into proper Markdown bullet points where appropriate.
+- Remove only unnecessary blank lines while preserving readability.
+- Do not include explanations, approaches, solutions, code, complexity analysis, or any additional sections.
+- Do not prepend numbers to the title or generate any new headings that were not implied by the original content.
+- Output only the final Markdown, ready to be saved as `README.md`.
